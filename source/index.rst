@@ -3,12 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-模板文件
+笔记目录
 ==========================================
 
 .. toctree::
    :maxdepth: 3
+   :caption: Linux笔记
    :titlesonly:
 
-   misc/index
+   linux/index.md
 
+.. toctree::
+   :maxdepth: 3
+   :caption: rtthread笔记
+   :titlesonly:
+
+   rtthread/index
