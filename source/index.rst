@@ -8,6 +8,13 @@
 
 .. toctree::
    :maxdepth: 3
+   :caption: resource
+   :titlesonly:
+ 
+   res/index.md
+
+.. toctree::
+   :maxdepth: 3
    :caption: Linux笔记
    :titlesonly:
 
