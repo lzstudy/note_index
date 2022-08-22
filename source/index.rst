@@ -22,6 +22,13 @@
 
 .. toctree::
    :maxdepth: 3
+   :caption: openwrt
+   :titlesonly:
+
+   openwrt/index
+
+.. toctree::
+   :maxdepth: 3
    :caption: rtthread笔记
    :titlesonly:
 
