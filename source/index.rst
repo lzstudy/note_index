@@ -15,6 +15,13 @@
 
 .. toctree::
    :maxdepth: 3
+   :caption: 经验总结
+   :titlesonly:
+
+   summary/index.md
+
+.. toctree::
+   :maxdepth: 3
    :caption: Linux笔记
    :titlesonly:
 
