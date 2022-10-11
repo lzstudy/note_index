@@ -12,6 +12,8 @@
    :titlesonly:
  
    res/index.md
+   books/index
+   software/index
 
 .. toctree::
    :maxdepth: 3
