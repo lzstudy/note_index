@@ -31,10 +31,10 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: openwrt
+   :caption: 设备平台
    :titlesonly:
 
-   openwrt/index
+   platform/index
 
 .. toctree::
    :maxdepth: 3
