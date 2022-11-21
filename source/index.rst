@@ -6,39 +6,20 @@
 笔记目录
 ==========================================
 
+
 .. toctree::
    :maxdepth: 3
-   :caption: resource
+   :caption: 子午笔记
+   :titlesonly:
+
+   summary.md
+   tech.md
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 未知笔记
    :titlesonly:
  
    res/index.md
    books/index
    software/index
-
-.. toctree::
-   :maxdepth: 3
-   :caption: 经验总结
-   :titlesonly:
-
-   summary/index.md
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Linux笔记
-   :titlesonly:
-
-   linux/index.md
-
-.. toctree::
-   :maxdepth: 3
-   :caption: 设备平台
-   :titlesonly:
-
-   platform/index
-
-.. toctree::
-   :maxdepth: 3
-   :caption: rtthread笔记
-   :titlesonly:
-
-   rtthread/index
