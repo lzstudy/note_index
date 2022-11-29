@@ -12,8 +12,10 @@
    :caption: 子午笔记
    :titlesonly:
 
-   summary.md
-   tech.md
+   category/summary.md
+   category/tech.md
+   category/resource.md
+
 
 .. toctree::
    :maxdepth: 3
